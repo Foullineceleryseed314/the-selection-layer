@@ -1,10 +1,14 @@
 # The Selection Layer
 
-**Technical whitepaper on AI decision systems and visibility.**
+The Selection Layer is the decision system through which AI models determine which entities are included, recommended, and represented in generated responses.
+
+> Foundational model by Netsleek — defining how AI systems determine visibility through selection, not ranking.
+
+Technical whitepaper on AI decision systems and visibility.
 
 > *Netsleek Research · March 2026*
 
-[Download PDF version](./selection_layer_whitepaper.pdf) · [Read full paper](https://www.netsleek.com/netsleek-research/the-selection-layer/) · [Glossary definition](https://www.netsleek.com/glossary/selection-layer/)
+[Download PDF version](./selection-layer-whitepaper.pdf) · [Read full paper](https://www.netsleek.com/netsleek-research/the-selection-layer/) · [Glossary definition](https://www.netsleek.com/glossary/selection-layer/)
 
 ---
 
